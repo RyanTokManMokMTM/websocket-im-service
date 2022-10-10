@@ -1,6 +1,6 @@
 # IM System - Base on websocket
 
-> Tutorial from `稀土掘金` Form
+> Tutorial from `稀土掘金` Forum
 
 This branch is communication layer in IM System
 
